@@ -17,5 +17,3 @@
 </div>
   
 ##
-  
-[![leonardoprogrammer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardoprogrammer)](https://github.com/anuraghazra/github-readme-stats)
