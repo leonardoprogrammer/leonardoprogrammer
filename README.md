@@ -43,4 +43,4 @@ Aqui estão alguns dos meus projetos:
 
 Como entrar em contato comigo: 
 * LinkedIn: https://www.linkedin.com/in/leonardocesarsilva/
-* E-mail: [leonardosilvaprogrammer@gmail.com](mailto:leonardosilvaprogrammer@gmail.com)
+* E-mail: [lcesar80@gmail.com](mailto:lcesar80@gmail.com)
